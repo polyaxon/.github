@@ -18,7 +18,7 @@
 
 ## Deployment options:
 
-<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/deploy.svg"/> **Community Edition**: Get started locally or on your own cluster with our Machine learning management & orchestration Platform (MLOps) | [website](https://polyaxon.com/polyaxon-ce/)
+<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/github.svg"/> **Community Edition**: Get started locally or on your own cluster with our Machine learning management & orchestration Platform (MLOps) | [website](https://polyaxon.com/polyaxon-ce/)
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/cloud.svg"/> **Hybrid Cloud Deployment**: A fully managed control plane for end to end data science orchestration, with on-premise security | [website](https://polyaxon.com/polyaxon-cloud/)
 
