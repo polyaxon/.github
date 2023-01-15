@@ -2,8 +2,6 @@
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/polyaxon.svg"/> **Polyaxon**: Machine learning management & orchestration Platform (MLOps) | [code](https://github.com/polyaxon/polyaxon)
 
-<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/cli.svg"/> **Polyaxon CLI**: Polyaxon Core Client & CLI | [code](https://github.com/polyaxon/cli)
-
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/mloperator.svg"/> **MLOperator**: Machine learning operator & controller for Kubernetes | [code](https://github.com/polyaxon/mloperator)
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/traceml.svg"/> **TraceML**: Engine for ML/Data tracking, visualization, dashboards, and model UI for Polyaxon | [code](https://github.com/polyaxon/traceml)
@@ -15,6 +13,8 @@
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/haupt.svg"/> **Haupt**: Lineage metadata API, artifacts streams, sandbox, ML-API, and spaces for Polyaxon | [code](https://github.com/polyaxon/haupt)
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/helm.svg"/> **Helm Charts**: For creating reproducible and maintainable deployments of Polyaxon with Kubernetes | [code](https://github.com/polyaxon/charts)
+
+<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/cli.svg"/> **Polyaxon CLI**: Polyaxon Core Client & CLI | [code](https://github.com/polyaxon/cli)
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/sdks.svg"/> **SDKs**: Low level clients & language interfaces | [code](https://github.com/polyaxon/sdks)
 
