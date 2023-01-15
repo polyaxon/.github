@@ -26,7 +26,7 @@
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/ee.svg"/> **Enterprise Edition**: A powerful offering for larger organizations in need of security, monitoring, compliance, faster data scientists onboarding, higher performance, granular access, ...  | [website](https://polyaxon.com/polyaxon-ee/)
 
-## Links
+## Links:
 
 [![Polyaxon Github](https://img.shields.io/github/stars/polyaxon?style=social)]([https://hub.docker.com/r/polyaxon/polyaxon-api](https://github.com/polyaxon))
 [![Polyaxon API](https://img.shields.io/badge/Dokcer-25M+-white?style=social&logo=docker)](https://hub.docker.com/r/polyaxon)
