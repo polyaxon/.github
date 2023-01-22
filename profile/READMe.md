@@ -31,7 +31,7 @@
 [![Polyaxon Github](https://img.shields.io/github/stars/polyaxon?style=social)]([https://hub.docker.com/r/polyaxon/polyaxon-api](https://github.com/polyaxon))
 [![Polyaxon API](https://img.shields.io/badge/Dokcer-25M+-white?style=social&logo=docker)](https://hub.docker.com/r/polyaxon)
 [![Slack](https://img.shields.io/badge/Slack-1.5k+-white?style=social&logo=slack)](https://polyaxon.com/slack/)
-[![Twitter](https://img.shields.io/twitter/follow/polyaxonAI?style=social)](https://twitter.com/PolyaxonAI)
+[![Twitter](https://img.shields.io/badge/Slack-1.2k+-white?style=social&logo=twitter)](https://twitter.com/PolyaxonAI)
 
 
 [![Docs](https://img.shields.io/badge/docs-stable-brightgreen.svg?style=flat&longCache=true)](https://polyaxon.com/docs/)
