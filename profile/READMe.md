@@ -6,8 +6,6 @@
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/traceml.svg"/> **TraceML**: Engine for ML/Data tracking, visualization, dashboards, and model UI for Polyaxon | [code](https://github.com/polyaxon/traceml)
 
-<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/datatile.svg"/> **Datatile**: A library for managing, validating, summarizing, and visualizing data | [code](https://github.com/polyaxon/datatile)
-
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/hypertune.svg"/> **HyperTune**: A library for performing hyperparameter optimization | [code](https://github.com/polyaxon/hypertune)
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/haupt.svg"/> **Haupt**: Lineage metadata API, artifacts streams, sandbox, ML-API, and spaces for Polyaxon | [code](https://github.com/polyaxon/haupt)
