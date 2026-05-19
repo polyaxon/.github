@@ -8,9 +8,9 @@
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/hypertune.svg"/> **HyperTune**: A library for performing hyperparameter optimization | [code](https://github.com/polyaxon/hypertune)
 
-<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/haupt.svg"/> **Haupt**: Sandbox daemon for running AI agents and interactive sessions for Polyaxon | [code](https://github.com/polyaxon/sandbox)
+<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/haupt.svg"/> **Sandbox**: Sandbox daemon for running AI agents and interactive sessions for Polyaxon | [code](https://github.com/polyaxon/sandbox)
 
-<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/haupt.svg"/> **Sandbox**: Lineage metadata API, artifacts streams, sandbox, ML-API, and spaces for Polyaxon | [code](https://github.com/polyaxon/haupt)
+<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/haupt.svg"/> **Haupt**: Lineage metadata API, artifacts streams, sandbox, ML-API, and spaces for Polyaxon | [code](https://github.com/polyaxon/haupt)
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/helm.svg"/> **Helm Charts**: For creating reproducible and maintainable deployments of Polyaxon with Kubernetes | [code](https://github.com/polyaxon/charts)
 
