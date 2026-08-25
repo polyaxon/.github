@@ -12,6 +12,8 @@
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/haupt.svg"/> **Haupt**: Lineage metadata API, artifacts streams, sandbox, ML-API, and spaces for Polyaxon | [code](https://github.com/polyaxon/haupt)
 
+<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/gatewayai.svg"/> **Gatewayai**: Unified LLM provider abstraction with streaming, adapters, credential pooling, and HTTP/SSE access | [code](https://github.com/polyaxon/gatewayai)
+
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/helm.svg"/> **Helm Charts**: For creating reproducible and maintainable deployments of Polyaxon with Kubernetes | [code](https://github.com/polyaxon/charts)
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/cli.svg"/> **CLI**: Polyaxon Core Client & CLI | [code](https://github.com/polyaxon/cli)
