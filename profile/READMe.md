@@ -18,7 +18,7 @@
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/cli.svg"/> **CLI**: Polyaxon Core Client & CLI | [code](https://github.com/polyaxon/cli)
 
-<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/vents"/> **Vents**: Connections catalog, integrations, tools, alerting, and notifications library | [code](https://github.com/polyaxon/cli)
+<img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/vents.svg"/> **Vents**: Connections catalog, integrations, tools, alerting, and notifications library | [code](https://github.com/polyaxon/cli)
 
 <img width="20px" style="vertical-align: text-top;" src="https://raw.githubusercontent.com/polyaxon/polyaxon/master/artifacts/logos/sdks.svg"/> **SDKs**: Low level clients & language interfaces | [code](https://github.com/polyaxon/sdks)
 
